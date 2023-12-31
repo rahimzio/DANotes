@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-1da90": {
+      "hosting": {
+        "da-keep": [
+          "danotes-1da90"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-1da90"
+  }
+}
